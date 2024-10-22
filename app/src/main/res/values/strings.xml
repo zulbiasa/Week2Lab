@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MAD_Lab2Zul</string>
+    <string name="user_name">Enter your username</string>
+    <string name="user_pwd">Your Password</string>
+    <string name="btn_login">Enter</string>
+    <string name="greet">Hello Buddy!</string>
+    <string name="full_Name" translatable="false">Enter your full name</string>
+    <string name="email" translatable="false">Your email@email.com</string>
+    <string name="contact" translatable="false">Contact Number example: +6013456789</string>
+    <string name="dob" translatable="false">Your DOB eg: 27/8/2000</string>
+    <string name="gender_male" translatable="false">Male</string>
+    <string name="gender_female" translatable="false">Female</string>
+    <string name="gender" translatable="false">Gender</string>
+</resources>

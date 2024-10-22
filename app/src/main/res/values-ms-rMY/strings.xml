@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MAD_Lab2Zul</string>
+    <string name="user_name">Sila Masukkan Username Anda</string>
+    <string name="user_pwd">Kata Laluan Anda</string>
+    <string name="btn_login">Masuk</string>
+    <string name="greet">Hello Kawan!</string>
+</resources>
