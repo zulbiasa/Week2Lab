@@ -13,10 +13,13 @@
         android:theme="@style/Theme.AppCompat.DayNight"
         tools:targetApi="31">
         <activity
-            android:name=".LoginActivity"
+            android:name=".ActivityExpenses"
             android:exported="false" />
         <activity
             android:name=".ActivityRegister"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -11,4 +11,9 @@
     <string name="gender_male" translatable="false">Male</string>
     <string name="gender_female" translatable="false">Female</string>
     <string name="gender" translatable="false">Gender</string>
+    <string name="expense" translatable="false">Expenses for...</string>
+    <string name="date" translatable="false">5/10/2024</string>
+    <string name="amount" translatable="false">RM</string>
+    <string name="btn_save" translatable="false">Save</string>
+
 </resources>
